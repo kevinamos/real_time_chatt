@@ -1,0 +1,24 @@
+{
+  "name": "real-time-chat-app",
+  "version": "1.0.0",
+  "description": "real time chat app with node js, express js and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinamos/real_time_chatt.git"
+  },
+  "author": "Kevin Amos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinamos/real_time_chatt/issues"
+  },
+  "homepage": "https://github.com/kevinamos/real_time_chatt#readme",
+  "dependencies": {
+    "express": "^4.17.0",
+    "socket.io": "^2.2.0"
+  }
+}
